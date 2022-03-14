@@ -162,7 +162,7 @@ https://user-images.githubusercontent.com/71200950/158111768-6bbb41da-608a-427a-
 UC Berkeley Extension Coding Bootcamp - Module 18: NoSQL Challenge: Social Network API 
 
 ## License: 
- ICS.  
+ [ICS](https://opensource.org/licenses/ISC)  
  
 
 ### ***Contact***
