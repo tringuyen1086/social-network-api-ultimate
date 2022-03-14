@@ -115,11 +115,29 @@ Reaction Routes
 ### ***Demo***
 [User Routes]
 
+
+https://user-images.githubusercontent.com/71200950/158111737-62f3de2b-b6d1-41f7-a1b1-daebcd4fbec0.mp4
+
+
 [Thought Routes]
+
+
+
+https://user-images.githubusercontent.com/71200950/158111981-e5a0196a-5a56-4051-9cb6-2aa73a3d81f4.mp4
+
+
 
 [Friend Routes] 
 
+
+https://user-images.githubusercontent.com/71200950/158111760-53197c16-6de9-4d5d-823c-ab9f65abd5cd.mp4
+
+
 [Reaction Routes]
+
+
+https://user-images.githubusercontent.com/71200950/158111768-6bbb41da-608a-427a-937b-262318015f0a.mp4
+
 
 ### ***Criteria***
 
