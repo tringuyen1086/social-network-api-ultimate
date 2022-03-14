@@ -1,0 +1,26 @@
+{
+  "name": "social-network-api-ultimate",
+  "version": "1.0.0",
+  "description": "18. NoSQL Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tringuyen1086/social-network-api-ultimate.git"
+  },
+  "keywords": [],
+  "author": "Tri Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tringuyen1086/social-network-api-ultimate/issues"
+  },
+  "homepage": "https://github.com/tringuyen1086/social-network-api-ultimate#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "moment": "^2.29.1",
+    "mongoose": "^5.13.14"
+  }
+}
